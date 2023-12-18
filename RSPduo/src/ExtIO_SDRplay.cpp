@@ -316,7 +316,7 @@ static itu ituCodes[] = {
 	{ "CPT", "Clipperton" },
 	{ "CPV", "Cape Verde Islands" },
 	{ "CRO", "Crozet Archipelago" },
-	{ "CTI", "Ivory Coast(Côte d'Ivoire)" },
+	{ "CTI", "Ivory Coast(Cï¿½te d'Ivoire)" },
 	{ "CTR", "Costa Rica" },
 	{ "CUB", "Cuba" },
 	{ "CUW", "Curacao" },
@@ -466,7 +466,7 @@ static itu ituCodes[] = {
 	{ "PTC", "Pitcairn" },
 	{ "PTR", "Puerto Rico" },
 	{ "QAT", "Qatar" },
-	{ "REU", "La Réunion" },
+	{ "REU", "La Rï¿½union" },
 	{ "ROD", "Rodrigues" },
 	{ "ROU", "Romania" },
 	{ "RRW", "Rwanda" },
@@ -609,7 +609,7 @@ static lang languageCodes[] = {
 	{ "BAJ", "Bajau : Malaysia - Sabah(50,000)", "[bdr]" },
 	{ "BAL", "Balinese : Indonesia - Bali(3m)", "[ban]" },
 	{ "BAN", "Banjar / Banjarese : Indonesia - Kalimantan(3.5m)", "[bjn]" },
-	{ "BAO", "Baoulé : Cote d'Ivoire (2m)", "[bci]" },
+	{ "BAO", "Baoulï¿½ : Cote d'Ivoire (2m)", "[bci]" },
 	{ "BAR", "Bari : South Sudan(0.4m)", "[bfa]" },
 	{ "BAS", "Bashkir / Bashkort : Russia - Bashkortostan(1m)", "[bak]" },
 	{ "BAY", "Bayash / Boyash(gypsy dialect of Romanian) : Serbia, Croatia(10,000)", "[]" },
@@ -674,7 +674,7 @@ static lang languageCodes[] = {
 	{ "C-Z", "Chin - Zomin / Zomi - Chin : Myanmar(60,000), India - Manipur(20,000)", "[zom]" },
 	{ "CKM", "Chakma : India - Mizoram,Tripura,Assam(0.2m), Bangladesh(0.15m)", "[ccp]" },
 	{ "CKW", "Chokwe : Angola(0.5m), DR Congo(0.5m)", "[cjk]" },
-	{ "COF", "Cofan / Cofán : Ecuador - Napo, Colombia(2000)", "[con]" },
+	{ "COF", "Cofan / Cofï¿½n : Ecuador - Napo, Colombia(2000)", "[con]" },
 	{ "COK", "Cook Islands Maori / Rarotongan : Cook Islands(13,000)", "[rar]" },
 	{ "CR", "Creole / Haitian : Haiti(7m)", "[hat]" },
 	{ "CRU", "Chru : Vietnam(19,000)", "[cje]" },
@@ -708,7 +708,7 @@ static lang languageCodes[] = {
 	{ "EGY", "Egyptian Arabic : Egypt(52m)", "[arz]" },
 	{ "EO", "Esperanto : Constructed language(2m)", "[epo]" },
 	{ "ES", "Estonian : Estonia(1m)", "[ekk]" },
-	{ "EWE", "Ewe / Éwé : Ghana(2m), Togo(1m)", "[ewe]" },
+	{ "EWE", "Ewe / ï¿½wï¿½ : Ghana(2m), Togo(1m)", "[ewe]" },
 	{ "F", "French : France(53m), Canada(7m), Belgium(4m), Switzerland(1m)", "[fra]" },
 	{ "FA", "Faroese : Faroe Islands(66,000)", "[fao]" },
 	{ "FI", "Finnish : Finland(5m)", "[fin]" },
@@ -734,7 +734,7 @@ static lang languageCodes[] = {
 	{ "GON", "Gondi : India - Madhya Pr.,Maharashtra(2m)", "[gno]" },
 	{ "GR", "Greek : Greece(10m), Cyprus(0.7m)", "[ell]" },
 	{ "GU", "Gujarati : India - Gujarat,Maharashtra,Rajasthan(46m)", "[guj]" },
-	{ "GUA", "Guaraní : Paraguay(5m)", "[grn]" },
+	{ "GUA", "Guaranï¿½ : Paraguay(5m)", "[grn]" },
 	{ "GUR", "Gurage / Guragena : Ethiopia(0.4m)", "[sgw]" },
 	{ "GZ", "Ge'ez / Geez (liturgic language of Ethiopia)", "[gez]" },
 	{ "HA", "Haussa : Nigeria(19m), Niger(5m), Benin(1m)", "[hau]" },
@@ -759,7 +759,7 @@ static lang languageCodes[] = {
 	{ "HZ", "Hazaragi : Afghanistan(1.8m), Iran(0.3m)", "[haz]" },
 	{ "I", "Italian : Italy(55m), Switzerland(0.5m), San Marino(25,000)", "[ita]" },
 	{ "IB", "Iban : Malaysia - Sarawak(0.7m)", "[iba]" },
-	{ "IF", "Ifè / Ife : Togo(0.1m), Benin(80,000)", "[ife]" },
+	{ "IF", "Ifï¿½ / Ife : Togo(0.1m), Benin(80,000)", "[ife]" },
 	{ "IG", "Igbo / Ibo : Nigeria(18m)", "[ibo]" },
 	{ "ILC", "Ilocano : Philippines(7m)", "[ilo]" },
 	{ "ILG", "Ilonggo : Philippines(6m)", "[hil]" },
@@ -902,7 +902,7 @@ static lang languageCodes[] = {
 	{ "MNO", "Mnong(Ea,Ce,So) : Vietnam(90,000), Cambodia(40,000)", "[mng,cmo,mnn]" },
 	{ "MO", "Mongolian : Mongolia(Halh; 2m), China(Peripheral; 3m)", "[khk,mvf]" },
 	{ "MON", "Mon : Myanmar - Mon,Kayin(0.7m), Thailand(0.1m)", "[mnw]" },
-	{ "MOO", "Moore / Mòoré : Burkina Faso(5m)", "[mos]" },
+	{ "MOO", "Moore / Mï¿½orï¿½ : Burkina Faso(5m)", "[mos]" },
 	{ "MOR", "Moro / Moru / Muro : Sudan - S Korodofan(30,000)", "[mor]" },
 	{ "MR", "Maronite / Cypriot Arabic : Cyprus(1300)", "[acy]" },
 	{ "MRC", "Moroccan / Mugrabian Arabic : Morocco(20m)", "[ary]" },
@@ -974,7 +974,7 @@ static lang languageCodes[] = {
 	{ "SED", "Sedang : Vietnam(0.1m)", "[sed]" },
 	{ "SEF", "Sefardi / Judeo Spanish / Ladino : Israel(0.1m), Turkey(10,000)", "[lad]" },
 	{ "SEN", "Sena : Mocambique(1m)", "[seh]" },
-	{ "SFO", "Senoufo / Sénoufo - Syenara : Mali(0.15m)", "[shz]" },
+	{ "SFO", "Senoufo / Sï¿½noufo - Syenara : Mali(0.15m)", "[shz]" },
 	{ "SGA", "Shangaan / Tsonga : Mocambique(2m), South Africa(2m)", "[tso]" },
 	{ "SGM", "Sara Gambai / Sara Ngambai : Chad(0.9m)", "[sba]" },
 	{ "SGO", "Songo : Angola(50,000)", "[nsx]" },
@@ -1022,7 +1022,7 @@ static lang languageCodes[] = {
 	{ "TEM", "Temme / Temne : Sierra Leone(1.5m)", "[tem]" },
 	{ "TFT", "Tarifit : Morocco, northern(1.3m), Algeria", "[rif]" },
 	{ "TGK", "Tangkhul / Tangkul Naga : India - Manipur,Nagaland(0.15m)", "[nmf]" },
-	{ "TGR", "Tigre / Tigré : Eritrea(1m)", "[tig]" },
+	{ "TGR", "Tigre / Tigrï¿½ : Eritrea(1m)", "[tig]" },
 	{ "TGS", "Tangsa / Naga - Tase : Myanmar(60,000), India - Arunachal Pr. (40,000)", "[nst]" },
 	{ "THA", "Tharu Buksa : India - Uttarakhand(43,000)", "[tkb]" },
 	{ "TIG", "Tigrinya / Tigray : Ethiopia(4m), Eritrea(3m)", "[tir]" },
@@ -3077,7 +3077,7 @@ char LIBSDRplay_API __stdcall GetMode(void)
 extern "C"
 void LIBSDRplay_API __stdcall ModeChanged(char m)
 {
-	// ‘A’  =  AM ‘E’  =  ECSS ‘F’  = FM ‘L’  =  LSB ‘U’  =  USB ‘C’  =  CW ‘D’  =  DRM
+	// ï¿½Aï¿½  =  AM ï¿½Eï¿½  =  ECSS ï¿½Fï¿½  = FM ï¿½Lï¿½  =  LSB ï¿½Uï¿½  =  USB ï¿½Cï¿½  =  CW ï¿½Dï¿½  =  DRM
 	DebugLog("ExtIO: ModeChanged: %c", m);
 	demodMode = m;
 	return;
@@ -3127,15 +3127,22 @@ int LIBSDRplay_API __stdcall ExtIoGetSrates(int srate_idx, double *samplerate)
 extern "C"
 int  LIBSDRplay_API __stdcall ExtIoGetActualSrateIdx(void)
 {
-	DebugLog("ExtIO: ExtIoGetActualSrateIdx: 0");
-	return 0;
+#ifdef DEBUG_ENABLE
+	OutputDebugString("ExtIoGetActualSrateIdx");
+#endif
+	return SampleRateIdx;
 }
 
 extern "C"
-int  LIBSDRplay_API __stdcall ExtIoSetSrate(int)
+int  LIBSDRplay_API __stdcall ExtIoSetSrate(int srate_idx)
 {
-	DebugLog("ExtIO: ExtIoSetSrate: 1");
-	return 1;	// ERROR
+#ifdef DEBUG_ENABLE
+	OutputDebugString("ExtIoSetSrate");
+#endif
+	if ((srate_idx < 0) || (srate_idx > (sizeof(samplerates) / sizeof(samplerates[0]))))
+		return 1;	// ERROR
+
+	SampleRateIdx = srate_idx;
 }
 
 extern "C"

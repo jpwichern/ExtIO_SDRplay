@@ -305,7 +305,7 @@ static itu ituCodes[] = {
 	{ "CPT", "Clipperton" },
 	{ "CPV", "Cape Verde Islands" },
 	{ "CRO", "Crozet Archipelago" },
-	{ "CTI", "Ivory Coast(Côte d'Ivoire)" },
+	{ "CTI", "Ivory Coast(Cï¿½te d'Ivoire)" },
 	{ "CTR", "Costa Rica" },
 	{ "CUB", "Cuba" },
 	{ "CUW", "Curacao" },
@@ -455,7 +455,7 @@ static itu ituCodes[] = {
 	{ "PTC", "Pitcairn" },
 	{ "PTR", "Puerto Rico" },
 	{ "QAT", "Qatar" },
-	{ "REU", "La Réunion" },
+	{ "REU", "La Rï¿½union" },
 	{ "ROD", "Rodrigues" },
 	{ "ROU", "Romania" },
 	{ "RRW", "Rwanda" },
@@ -598,7 +598,7 @@ static lang languageCodes[] = {
 	{ "BAJ", "Bajau : Malaysia - Sabah(50,000)", "[bdr]" },
 	{ "BAL", "Balinese : Indonesia - Bali(3m)", "[ban]" },
 	{ "BAN", "Banjar / Banjarese : Indonesia - Kalimantan(3.5m)", "[bjn]" },
-	{ "BAO", "Baoulé : Cote d'Ivoire (2m)", "[bci]" },
+	{ "BAO", "Baoulï¿½ : Cote d'Ivoire (2m)", "[bci]" },
 	{ "BAR", "Bari : South Sudan(0.4m)", "[bfa]" },
 	{ "BAS", "Bashkir / Bashkort : Russia - Bashkortostan(1m)", "[bak]" },
 	{ "BAY", "Bayash / Boyash(gypsy dialect of Romanian) : Serbia, Croatia(10,000)", "[]" },
@@ -663,7 +663,7 @@ static lang languageCodes[] = {
 	{ "C-Z", "Chin - Zomin / Zomi - Chin : Myanmar(60,000), India - Manipur(20,000)", "[zom]" },
 	{ "CKM", "Chakma : India - Mizoram,Tripura,Assam(0.2m), Bangladesh(0.15m)", "[ccp]" },
 	{ "CKW", "Chokwe : Angola(0.5m), DR Congo(0.5m)", "[cjk]" },
-	{ "COF", "Cofan / Cofán : Ecuador - Napo, Colombia(2000)", "[con]" },
+	{ "COF", "Cofan / Cofï¿½n : Ecuador - Napo, Colombia(2000)", "[con]" },
 	{ "COK", "Cook Islands Maori / Rarotongan : Cook Islands(13,000)", "[rar]" },
 	{ "CR", "Creole / Haitian : Haiti(7m)", "[hat]" },
 	{ "CRU", "Chru : Vietnam(19,000)", "[cje]" },
@@ -697,7 +697,7 @@ static lang languageCodes[] = {
 	{ "EGY", "Egyptian Arabic : Egypt(52m)", "[arz]" },
 	{ "EO", "Esperanto : Constructed language(2m)", "[epo]" },
 	{ "ES", "Estonian : Estonia(1m)", "[ekk]" },
-	{ "EWE", "Ewe / Éwé : Ghana(2m), Togo(1m)", "[ewe]" },
+	{ "EWE", "Ewe / ï¿½wï¿½ : Ghana(2m), Togo(1m)", "[ewe]" },
 	{ "F", "French : France(53m), Canada(7m), Belgium(4m), Switzerland(1m)", "[fra]" },
 	{ "FA", "Faroese : Faroe Islands(66,000)", "[fao]" },
 	{ "FI", "Finnish : Finland(5m)", "[fin]" },
@@ -723,7 +723,7 @@ static lang languageCodes[] = {
 	{ "GON", "Gondi : India - Madhya Pr.,Maharashtra(2m)", "[gno]" },
 	{ "GR", "Greek : Greece(10m), Cyprus(0.7m)", "[ell]" },
 	{ "GU", "Gujarati : India - Gujarat,Maharashtra,Rajasthan(46m)", "[guj]" },
-	{ "GUA", "Guaraní : Paraguay(5m)", "[grn]" },
+	{ "GUA", "Guaranï¿½ : Paraguay(5m)", "[grn]" },
 	{ "GUR", "Gurage / Guragena : Ethiopia(0.4m)", "[sgw]" },
 	{ "GZ", "Ge'ez / Geez (liturgic language of Ethiopia)", "[gez]" },
 	{ "HA", "Haussa : Nigeria(19m), Niger(5m), Benin(1m)", "[hau]" },
@@ -748,7 +748,7 @@ static lang languageCodes[] = {
 	{ "HZ", "Hazaragi : Afghanistan(1.8m), Iran(0.3m)", "[haz]" },
 	{ "I", "Italian : Italy(55m), Switzerland(0.5m), San Marino(25,000)", "[ita]" },
 	{ "IB", "Iban : Malaysia - Sarawak(0.7m)", "[iba]" },
-	{ "IF", "Ifè / Ife : Togo(0.1m), Benin(80,000)", "[ife]" },
+	{ "IF", "Ifï¿½ / Ife : Togo(0.1m), Benin(80,000)", "[ife]" },
 	{ "IG", "Igbo / Ibo : Nigeria(18m)", "[ibo]" },
 	{ "ILC", "Ilocano : Philippines(7m)", "[ilo]" },
 	{ "ILG", "Ilonggo : Philippines(6m)", "[hil]" },
@@ -891,7 +891,7 @@ static lang languageCodes[] = {
 	{ "MNO", "Mnong(Ea,Ce,So) : Vietnam(90,000), Cambodia(40,000)", "[mng,cmo,mnn]" },
 	{ "MO", "Mongolian : Mongolia(Halh; 2m), China(Peripheral; 3m)", "[khk,mvf]" },
 	{ "MON", "Mon : Myanmar - Mon,Kayin(0.7m), Thailand(0.1m)", "[mnw]" },
-	{ "MOO", "Moore / Mòoré : Burkina Faso(5m)", "[mos]" },
+	{ "MOO", "Moore / Mï¿½orï¿½ : Burkina Faso(5m)", "[mos]" },
 	{ "MOR", "Moro / Moru / Muro : Sudan - S Korodofan(30,000)", "[mor]" },
 	{ "MR", "Maronite / Cypriot Arabic : Cyprus(1300)", "[acy]" },
 	{ "MRC", "Moroccan / Mugrabian Arabic : Morocco(20m)", "[ary]" },
@@ -963,7 +963,7 @@ static lang languageCodes[] = {
 	{ "SED", "Sedang : Vietnam(0.1m)", "[sed]" },
 	{ "SEF", "Sefardi / Judeo Spanish / Ladino : Israel(0.1m), Turkey(10,000)", "[lad]" },
 	{ "SEN", "Sena : Mocambique(1m)", "[seh]" },
-	{ "SFO", "Senoufo / Sénoufo - Syenara : Mali(0.15m)", "[shz]" },
+	{ "SFO", "Senoufo / Sï¿½noufo - Syenara : Mali(0.15m)", "[shz]" },
 	{ "SGA", "Shangaan / Tsonga : Mocambique(2m), South Africa(2m)", "[tso]" },
 	{ "SGM", "Sara Gambai / Sara Ngambai : Chad(0.9m)", "[sba]" },
 	{ "SGO", "Songo : Angola(50,000)", "[nsx]" },
@@ -1011,7 +1011,7 @@ static lang languageCodes[] = {
 	{ "TEM", "Temme / Temne : Sierra Leone(1.5m)", "[tem]" },
 	{ "TFT", "Tarifit : Morocco, northern(1.3m), Algeria", "[rif]" },
 	{ "TGK", "Tangkhul / Tangkul Naga : India - Manipur,Nagaland(0.15m)", "[nmf]" },
-	{ "TGR", "Tigre / Tigré : Eritrea(1m)", "[tig]" },
+	{ "TGR", "Tigre / Tigrï¿½ : Eritrea(1m)", "[tig]" },
 	{ "TGS", "Tangsa / Naga - Tase : Myanmar(60,000), India - Arunachal Pr. (40,000)", "[nst]" },
 	{ "THA", "Tharu Buksa : India - Uttarakhand(43,000)", "[tkb]" },
 	{ "TIG", "Tigrinya / Tigray : Ethiopia(4m), Eritrea(3m)", "[tir]" },
@@ -1080,7 +1080,6 @@ static lang languageCodes[] = {
 
 static int n_gains = ((GAIN_SLIDER_MAX - GAIN_SLIDER_MIN) + 1);
 static int gains[((GAIN_SLIDER_MAX - GAIN_SLIDER_MIN) + 1)];
-static int last_gain;
 
 static HMODULE ApiDll = NULL;
 HMODULE Dll = NULL;
@@ -1172,7 +1171,6 @@ HWND h_SplashScreen = NULL;
 
 int pll_locked=0;
 char FreqoffsetTxt[256];
-char GainReductionTxt[256];
 char AGCsetpointTxt[256];
 char FilenameTxt[256];
 
@@ -1696,24 +1694,22 @@ void LIBSDRplay_API __stdcall CloseHW()
 	sdrplay_api_Close_fn();
 }
 
+#define API_KEY_VALUE_LEN 4096
+
 extern "C"
 bool  LIBSDRplay_API __stdcall InitHW(char *name, char *model, int &type)
 {
 #ifdef DEBUG_ENABLE
 	OutputDebugString("InitHW");
 #endif
-	char APIkeyValue[4096];
-	char tmpStringA[4096];
-	char str[1024 + 4096];
-	DWORD APIkeyValue_length = 4096;
-	char APIver[32];
-	DWORD APIver_length = 32;
+	char APIkeyValue[API_KEY_VALUE_LEN];
+	char tmpStringA[1024 + API_KEY_VALUE_LEN];
 	HKEY APIkey;
 	HKEY Settingskey;
 	sdrplay_api_ErrT err;
 	int error, tempRB, tempRB2;
 	DWORD IntSz = sizeof(int);
-	WCHAR csvPath[4096];
+	WCHAR csvPath[API_KEY_VALUE_LEN];
 
 	for (int i = GAIN_SLIDER_MIN; i <= GAIN_SLIDER_MAX; i++)
 	{
@@ -1722,6 +1718,8 @@ bool  LIBSDRplay_API __stdcall InitHW(char *name, char *model, int &type)
 		
 	if (RegOpenKey(HKEY_LOCAL_MACHINE, TEXT("SOFTWARE\\SDRplay\\Service\\API"), &APIkey) != ERROR_SUCCESS)
 	{
+		char str[1024 + API_KEY_VALUE_LEN];
+
 		error = GetLastError();
 		_stprintf_s(str, TEXT("Failed to locate API registry entry\nHKEY_LOCAL_MACHINE\\SOFTWARE\\SDRplay\\Service\\API\nERROR %d\n"), error);
 		MessageBox(NULL, str ,TEXT("SDRplay ExtIO DLL"),MB_ICONERROR | MB_OK);
@@ -1729,6 +1727,10 @@ bool  LIBSDRplay_API __stdcall InitHW(char *name, char *model, int &type)
 	}
 	else
 	{
+		char APIver[32];
+		DWORD APIver_length = 32;
+		DWORD APIkeyValue_length = API_KEY_VALUE_LEN;
+
 		RegQueryValueEx(APIkey, "Install_Dir", NULL, NULL, (LPBYTE)&APIkeyValue, &APIkeyValue_length);
 		RegQueryValueEx(APIkey, "Version", NULL, NULL, (LPBYTE)&APIver, &APIver_length);
 		sprintf_s(apiVersion, sizeof(apiVersion), APIver);
@@ -1737,9 +1739,9 @@ bool  LIBSDRplay_API __stdcall InitHW(char *name, char *model, int &type)
 	}
 
 	#ifndef _WIN64
-		sprintf_s(tmpStringA, 8192, "%s\\x86\\sdrplay_api.dll", APIkeyValue);
+		sprintf_s(tmpStringA, 1024 + API_KEY_VALUE_LEN, "%s\\x86\\sdrplay_api.dll", APIkeyValue);
 	#else
-		sprintf_s(tmpStringA, 8192, "%s\\x64\\sdrplay_api.dll", APIkeyValue);
+		sprintf_s(tmpStringA, 1024 + API_KEY_VALUE_LEN, "%s\\x64\\sdrplay_api.dll", APIkeyValue);
 	#endif
 
 	sprintf_s(apiPath, sizeof(apiPath), "%s", tmpStringA);
@@ -1756,6 +1758,8 @@ bool  LIBSDRplay_API __stdcall InitHW(char *name, char *model, int &type)
 	}
 	if (ApiDll == NULL)
 	{
+		char str[1024 + API_KEY_VALUE_LEN];
+
 		error = GetLastError();
 		_stprintf_s(str, TEXT("Failed to load API DLL\n%s\nERROR %d\n"), ApiDllName, error);
 		MessageBox(NULL, str, TEXT("SDRplay ExtIO DLL"), MB_ICONERROR | MB_OK);
@@ -2083,16 +2087,11 @@ long LIBSDRplay_API __stdcall SetHWLO(unsigned long freq)
 		return -100000;
 	}
 
-	TCHAR LNAGainReductionTxt[255];
 
 	if (LNAGainReduction > LNA_GAIN_SLIDER_MAX)
 	{
-		LNAGainReduction = LNA_GAIN_SLIDER_MAX;
-		sprintf_s(LNAGainReductionTxt, 254, "%d", LNAGainReduction);
-		SendMessage(GetDlgItem(h_dialog, IDC_LNASLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)LNAGainReduction);
-		Edit_SetText(GetDlgItem(h_dialog, IDC_LNAGRNO), LNAGainReductionTxt);
+		UpdateLNAGainReduction(h_dialog, LNA_GAIN_SLIDER_MAX);
 	}
-
 	SendMessage(GetDlgItem(h_dialog, IDC_LNASLIDER), TBM_SETRANGEMAX, (WPARAM)true, (LPARAM)LNA_GAIN_SLIDER_MAX);
 
 	//Code to limit Dialog Box Movement
@@ -2150,14 +2149,8 @@ void eventCallback(sdrplay_api_EventT eventId, sdrplay_api_TunerSelectT tunerS, 
 
 		if (params->gainParams.gRdB < 200)
 		{
-			GainReduction = params->gainParams.gRdB;
-			sprintf_s(str, sizeof(str), "%d", GainReduction);
-			Edit_SetText(GetDlgItem(h_dialog, IDC_GR), str);
 			ActualLNAGR = params->gainParams.lnaGRdB;
-			SystemGainReduction = GainReduction + ActualLNAGR;
-			sprintf_s(str, sizeof(str), "Total System Gain Reduction %d dB", SystemGainReduction);
-			Edit_SetText(GetDlgItem(h_dialog, IDC_TOTALGR), str);
-			SendMessage(GetDlgItem(h_dialog, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+			UpdateAttenuator(h_dialog, params->gainParams.gRdB);
 		}
 		break;
 	case sdrplay_api_PowerOverloadChange:
@@ -3121,16 +3114,21 @@ int  LIBSDRplay_API __stdcall ExtIoGetActualSrateIdx(void)
 #ifdef DEBUG_ENABLE
 	OutputDebugString("ExtIoGetActualSrateIdx");
 #endif
-	return 0;
+	return SampleRateIdx;
 }
 
 extern "C"
-int  LIBSDRplay_API __stdcall ExtIoSetSrate(int)
+int  LIBSDRplay_API __stdcall ExtIoSetSrate(int srate_idx)
 {
 #ifdef DEBUG_ENABLE
 	OutputDebugString("ExtIoSetSrate");
 #endif
-	return 1;	// ERROR
+	if ((srate_idx < 0) || (srate_idx > (sizeof(samplerates) / sizeof(samplerates[0]))))
+		return 1;	// ERROR
+
+	SampleRateIdx = srate_idx;
+
+	return 0;
 }
 
 extern "C"
@@ -3153,10 +3151,74 @@ int  LIBSDRplay_API __stdcall GetActualAttIdx(void)
 #ifdef DEBUG_ENABLE
 	OutputDebugString("GetActualAttIdx");
 #endif
+	if (AGCEnabled)
+		return -1;
 	for (int i = 0; i < n_gains; i++)
-		if (last_gain == gains[i])
+		if (GainReduction == gains[i])
 			return i;
 	return -1;
+}
+
+void UpdateGainReductionDialogElements(HWND hwndDlg) {
+	char str[128];
+	_stprintf_s(str, 255, TEXT("%d"), GainReduction);
+	//Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 1);
+	//SendMessage(GetDlgItem(hwndDlg, IDC_GR), WM_SETTEXT, (WPARAM)0, (LPARAM)str);
+	//Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 0);
+	Edit_SetText(GetDlgItem(hwndDlg, IDC_GR), str);
+
+	Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 1);
+	SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+	Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 0);
+
+	sprintf_s(str, sizeof(str), "Total System Gain Reduction %d dB", SystemGainReduction);
+	Edit_SetText(GetDlgItem(hwndDlg, IDC_TOTALGR), str);
+}
+
+void UpdateLNAGainReduction(HWND hwndDlg, int newLNAGain)
+{
+	if (newLNAGain == LNAGainReduction)
+		return;
+
+	char str[128];
+#ifdef DEBUG_ENABLE
+	sprintf_s(str, 255, "New LNA Slider Position is =  %d", LNAGainReduction);
+	OutputDebugString(str);
+#endif
+
+	LNAGainReduction = newLNAGain;
+	sprintf_s(str, sizeof(str), "%d", LNAGainReduction);
+	SendMessage(GetDlgItem(hwndDlg, IDC_LNASLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)LNAGainReduction);
+	Edit_SetText(GetDlgItem(hwndDlg, IDC_LNAGRNO), str);
+}
+
+void UpdateAttenuator(HWND hwndDlg, int newGain) {
+	if (newGain == GainReduction)
+		return;
+
+	GainReduction = newGain;
+
+	chParams->tunerParams.gain.gRdB = GainReduction;
+
+	SystemGainReduction = GainReduction + ActualLNAGR;
+
+	UpdateGainReductionDialogElements(hwndDlg);
+}
+
+void AGCToggle(HWND hwndDlg) {
+	AGCEnabled = !AGCEnabled;
+	if (AGCEnabled)
+	{
+		SendMessage(GetDlgItem(hwndDlg, IDC_RSPAGC), BM_SETCHECK, (WPARAM)(1), 0);
+		Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 0);
+		Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 0);
+	}
+	else
+	{		
+		SendMessage(GetDlgItem(hwndDlg, IDC_RSPAGC), BM_SETCHECK, (WPARAM)(0), 0);
+		Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 1);
+		Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 1);
+	}	
 }
 
 extern "C"
@@ -3168,19 +3230,11 @@ int  LIBSDRplay_API __stdcall SetAttenuator(int atten_idx)
 	if (atten_idx < 0 || atten_idx > n_gains)
 		return -1;
 
-	int pos = gains[atten_idx];
+	if (AGCEnabled)
+		return -2;
 
-	if (!AGCEnabled)
-	{
-		if (pos != last_gain)
-		{
-			GainReduction = pos;
-			sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
-			Edit_SetText(GetDlgItem(h_dialog, IDC_GR), GainReductionTxt);
-			SendMessage(GetDlgItem(h_dialog, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
-			last_gain = pos;
-	}
-	}
+	UpdateAttenuator(h_dialog, gains[atten_idx]);
+
 	return 0;
 }
 
@@ -3967,20 +4021,7 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 			{
 			case 1:
 				// ALT-A = AGC toggle
-				if (!AGCEnabled)
-				{
-					AGCEnabled = true;
-					SendMessage(GetDlgItem(hwndDlg, IDC_RSPAGC), BM_SETCHECK, (WPARAM)(1), 0);
-					Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 0);
-					Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 0);
-				}
-				else
-				{
-					AGCEnabled = false;
-					SendMessage(GetDlgItem(hwndDlg, IDC_RSPAGC), BM_SETCHECK, (WPARAM)(0), 0);
-					Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 1);
-					Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 1);
-				}
+				AGCToggle(hwndDlg);
 				break;
 
 			case 2:
@@ -3988,14 +4029,12 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 				// - = Increase Gain Reduction
 				if (!AGCEnabled)
 				{
-					GainReduction += 1;
-					if (GainReduction >= GAIN_SLIDER_MAX)
+					int newGain = GainReduction + 1;
+					if (newGain >= GAIN_SLIDER_MAX)
 					{
-						GainReduction = GAIN_SLIDER_MAX;
+						newGain = GAIN_SLIDER_MAX;
 					}
-					sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
-					Edit_SetText(GetDlgItem(hwndDlg, IDC_GR), GainReductionTxt);
-					SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+					UpdateAttenuator(hwndDlg, newGain);
 				}
 				break;
 
@@ -4004,14 +4043,12 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 				// + = Decrease Gain Reduction
 				if (!AGCEnabled)
 				{
-					GainReduction -= 1;
-					if (GainReduction <= GAIN_SLIDER_MIN)
+					int newGain = GainReduction - 1;
+					if (newGain <= GAIN_SLIDER_MIN)
 					{
-						GainReduction = GAIN_SLIDER_MIN;
+						newGain = GAIN_SLIDER_MIN;
 					}
-					sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
-					Edit_SetText(GetDlgItem(hwndDlg, IDC_GR), GainReductionTxt);
-					SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+					UpdateAttenuator(hwndDlg, newGain);
 				}
 				break;
 
@@ -4199,17 +4236,7 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 			break;
 
 		case WM_TIMER:
-			_stprintf_s(str, 255, TEXT("%d"), GainReduction);
-			Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 1);
-			SendMessage(GetDlgItem(hwndDlg, IDC_GR), WM_SETTEXT, (WPARAM)0, (LPARAM)str);				
-			Edit_Enable(GetDlgItem(hwndDlg, IDC_GR), 0);
-
-			Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 1);
-			SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
-			Edit_Enable(GetDlgItem(hwndDlg, IDC_GAINSLIDER), 0);
-         
-			sprintf_s(str, sizeof(str), "Total System Gain Reduction %d dB", SystemGainReduction);
-			Edit_SetText(GetDlgItem(hwndDlg, IDC_TOTALGR), str);
+			UpdateGainReductionDialogElements(hwndDlg);
 			break;
 
 		case WM_NOTIFY:
@@ -4282,10 +4309,8 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 				OutputDebugString("Gain Slider VM Scroll");
 #endif
 				int pos = SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_GETPOS, (WPARAM)0, (LPARAM)0);
-				GainReduction = pos;
-				sprintf_s(GainReductionTxt, 254, "%d", pos);
-				Edit_SetText(GetDlgItem(hwndDlg, IDC_GR), GainReductionTxt);
-				chParams->tunerParams.gain.gRdB = GainReduction;
+				UpdateAttenuator(hwndDlg, pos);
+				
 				if (!Running)
 				{
 					SystemGainReduction = GainReduction + ActualLNAGR;
@@ -4302,16 +4327,12 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 
 			if ((HWND)lParam == GetDlgItem(hwndDlg, IDC_LNASLIDER))
 			{
-				TCHAR LNAGainReductionTxt[255];
 #ifdef DEBUG_ENABLE
 				OutputDebugString("LNA Slider VM Scroll");
 #endif
 				int pos = SendMessage(GetDlgItem(hwndDlg, IDC_LNASLIDER), TBM_GETPOS, (WPARAM)0, (LPARAM)0);
-				LNAGainReduction = pos;
-				sprintf_s(str, 255, "LNA Slider Position is =  %d", LNAGainReduction);
-				OutputDebugString(str);
-				sprintf_s(LNAGainReductionTxt, 254, "%d", pos);
-				Edit_SetText(GetDlgItem(hwndDlg, IDC_LNAGRNO), LNAGainReductionTxt);
+				UpdateLNAGainReduction(hwndDlg, pos);
+
 				chParams->tunerParams.gain.LNAstate = (unsigned char)LNAGainReduction;
 				if (Running)
 				{
@@ -4328,7 +4349,6 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 			// Buffer size
 
 			ghwndDlg = hwndDlg;
-			TCHAR LNAGainReductionTxt[255];
 
 			LoadSettings();
 			//Buffer Size (currently not used)
@@ -4451,18 +4471,12 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 			WinradCallBack(-1, WINRAD_SRCHANGE, 0, NULL);
 
 			//Gain Reduction
-			sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
 			SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETRANGEMIN, (WPARAM)true, (LPARAM)GAIN_SLIDER_MIN);
 			SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETRANGEMAX, (WPARAM)true, (LPARAM)GAIN_SLIDER_MAX);
-			SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
-			Edit_SetText(GetDlgItem(hwndDlg, IDC_GR), GainReductionTxt);
 
 			// LNA Gain Reduction
-			sprintf_s(LNAGainReductionTxt, 254, "%d", LNAGainReduction);
 			SendMessage(GetDlgItem(hwndDlg, IDC_LNASLIDER), TBM_SETRANGEMIN, (WPARAM)true, (LPARAM)LNA_GAIN_SLIDER_MIN);
 			SendMessage(GetDlgItem(hwndDlg, IDC_LNASLIDER), TBM_SETRANGEMAX, (WPARAM)true, (LPARAM)LNA_GAIN_SLIDER_MAX);
-			SendMessage(GetDlgItem(hwndDlg, IDC_LNASLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)LNAGainReduction);
-			Edit_SetText(GetDlgItem(hwndDlg, IDC_LNAGRNO), LNAGainReductionTxt);
 
 			//ADC Setpoint
 			sprintf_s(AGCsetpointTxt, 254, "%d", AGCsetpoint);
@@ -4777,16 +4791,10 @@ static INT_PTR CALLBACK MainDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPAR
 					ComboBox_SetCurSel(GetDlgItem(hwndDlg, IDC_DECIMATION), DecimationIdx);
 
 					// LNA gain reduction setup
-					LNAGainReduction = 0;
-					sprintf_s(LNAGainReductionTxt, 254, "%d", LNAGainReduction);
-					Edit_SetText(GetDlgItem(hwndDlg, IDC_LNAGRNO), LNAGainReductionTxt);
-					SendMessage(GetDlgItem(hwndDlg, IDC_LNASLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)LNAGainReduction);
+					UpdateLNAGainReduction(hwndDlg, 0);
 
 					//Gain Reduction
-					GainReduction = 50;
-					sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
-					Edit_SetText(GetDlgItem(hwndDlg, IDC_GR), GainReductionTxt);
-					SendMessage(GetDlgItem(hwndDlg, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+					UpdateAttenuator(hwndDlg, 50);
 
 					sprintf_s(str, sizeof(str), "Total System Gain Reduction %d dB", 84);
 					Edit_SetText(GetDlgItem(hwndDlg, IDC_TOTALGR), str);
@@ -5652,10 +5660,7 @@ static INT_PTR CALLBACK ProfilesDlgProc(HWND hwndDlg, UINT uMsg, WPARAM wParam, 
 
 						// Gain Reduction
 						rfret = ReadFile(hFile, &_GainReduction, sizeof(_GainReduction), &nBytesWritten, NULL);
-						GainReduction = _GainReduction;
-						sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
-						Edit_SetText(GetDlgItem(h_dialog, IDC_GR), GainReductionTxt);
-						SendMessage(GetDlgItem(h_dialog, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+						UpdateAttenuator(h_dialog, _GainReduction);
 
 						// AGC Setpoint
 						rfret = ReadFile(hFile, &AGCsetpoint, sizeof(AGCsetpoint), &nBytesWritten, NULL);
@@ -5906,10 +5911,7 @@ void LoadProfile(int profile)
 
 		// Gain Reduction
 		ReadFile(hFile, &_GainReduction, sizeof(_GainReduction), &nBytesWritten, NULL);
-		GainReduction = _GainReduction;
-		sprintf_s(GainReductionTxt, 254, "%d", GainReduction);
-		Edit_SetText(GetDlgItem(h_dialog, IDC_GR), GainReductionTxt);
-		SendMessage(GetDlgItem(h_dialog, IDC_GAINSLIDER), TBM_SETPOS, (WPARAM)true, (LPARAM)GainReduction);
+		UpdateAttenuator(h_dialog, _GainReduction);
 
 		// AGC Setpoint
 		ReadFile(hFile, &AGCsetpoint, sizeof(AGCsetpoint), &nBytesWritten, NULL);
