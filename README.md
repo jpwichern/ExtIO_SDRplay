@@ -11,3 +11,8 @@ This source code is all provide as is without support.
 The Releases section will contain a installer package which includes API 3.11
 
 SDRplay
+
+
+I'm fixing the RSP1 plugin to make it work with SDR#.
+
+73, Jiri Wichern, PG8W
